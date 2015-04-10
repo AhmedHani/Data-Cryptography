@@ -1,2 +1,2 @@
 # Data-Cryptography
-Various cryptography techniques for data cryptography.
+Various cryptography techniques for data security
